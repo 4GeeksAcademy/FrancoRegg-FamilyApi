@@ -45,6 +45,7 @@ class FamilyStructure:
     def add_member(self, member):
         # fill this method and update the return
         self._members.append(member)
+        
         pass
 
     def delete_member(self, id):
